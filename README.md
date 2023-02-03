@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CJuwaneme1704
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Javascript
 - 💞️ I’m looking to collaborate on anyhthinh tbh
 - 📫 How to reach me chidubemuwaneme@gmail.com
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CJuwaneme1704
-- 👀 I’m interested in web development 
+- 👀 I’m interested in web and mobile  development 
 - 🌱 I’m currently learning React and python
-- 💞️ I’m looking to collaborate on anyhthinh tbh
+- 💞️ I’m looking to collaborate on anyhthing tbh
 - 📫 How to reach me chidubemuwaneme@gmail.com
 
 <!---
